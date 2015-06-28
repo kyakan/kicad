@@ -1,0 +1,2 @@
+# kicad
+KiCAD Library repository
